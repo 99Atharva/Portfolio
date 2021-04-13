@@ -1,0 +1,53 @@
+.home {
+    
+    background-image: linear-gradient(rgba(0, 0, 0, 0.582),rgba(68, 64, 64, 0.726)), url("./Backgrnd/Portfolio.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+   
+}
+.head {
+    padding: 10px 30px;
+    font-size: 50px;
+    font-weight: 600;
+    letter-spacing: 4px;
+    color: cornsilk;
+}
+
+.links {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.links ul{
+    
+    list-style: none;
+    padding: 20px 30px ;
+
+}
+
+.links ul li {
+    margin: 10px 0;
+}
+
+.bt:hover {
+    transform: translateY(-3px);
+}
+
+.intro {
+    position: absolute;
+    display: flex;
+    width: 460px;
+    bottom: 40%;
+    /* transform: translate(-20%, -40%); */
+    padding-left: 40px;
+    line-height: 3rem;
+}
+.intro h1 {
+    font-weight: 200;
+    margin-bottom: 20px;
+    font-size: 4rem;
+}
+.intro p{
+    font-size: 2rem;
+}
