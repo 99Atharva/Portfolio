@@ -1,0 +1,17 @@
+.cont {
+
+    text-align: center;
+    margin: 30px 30px;
+    padding: 20px 20px;
+}
+.cont h1 {
+    color: rgb(87, 87, 87);
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+

@@ -1,0 +1,23 @@
+.Container {
+
+    padding: 0 80px;
+    text-align: center;
+    background-color: rgba(221, 220, 220, 0.795);
+}
+
+.Container h1 {
+   padding: 40px;
+    font-size: 45px; 
+    font-weight: 400;
+    letter-spacing: 3px;
+    margin-bottom: 50px;
+    height: auto;
+    color: rgb(99, 99, 99);
+}
+
+.skil_list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-bottom: 30px;
+}
