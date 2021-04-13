@@ -46,7 +46,9 @@ export default function About() {
 
         <Grid item xs={12} md={6}>
             <Grid className={classes.outer} item direction="column" alignItems="stretch">
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                <p>I am currently an undergraduate student in the department of CSE. I am a full stack developer ,I have been developing web apps for about a year now.
+                    Along with full stack web dev I have worked with c++ and python. You can check the stack i use below.
+                    I love painting , gaming .
                     </p> 
             </Grid> 
         </Grid>
