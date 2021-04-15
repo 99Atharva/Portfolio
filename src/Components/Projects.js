@@ -7,7 +7,7 @@ const pro_list = [
         cover:"./Project/Web.png",
         url:"https://github.com/99Atharva/Mydrama",
         live:"https://99atharva.github.io/Mydrama/",
-        des:"Just fun project, I like Kdramas so...If you too likes series you can check out your favourite here."
+        des:"Just a fun project, I like Kdramas so...If you too like series you can check out your favourite here."
     },
     {
         tittle:"Web choice",
