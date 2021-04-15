@@ -48,7 +48,7 @@ export default function About() {
             <Grid className={classes.outer} item direction="column" alignItems="stretch">
                 <p>I am currently an undergraduate student in the department of CSE. I am a full stack developer ,I have been developing web apps for about a year now.
                     Along with full stack web dev I have worked with c++ and python. You can check the stack i use below.
-                    I love painting , gaming .
+                    I love painting , gaming and outdoor sports🏃‍♀️.
                     </p> 
             </Grid> 
         </Grid>
