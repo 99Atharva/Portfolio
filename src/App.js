@@ -3,7 +3,6 @@ import Home from "./Components/Home";
 import SKills from "./Components/SKills";
 import Projects from "./Components/Projects";
 import About from "./Components/About";
-// import Badges from "./Elements/Badges";
 
 
 function App() {
