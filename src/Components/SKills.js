@@ -67,7 +67,7 @@ const list = [
 function SKills() {
     return (
         
-        <div className="Container">
+        <div className="Container" id="stack">
             <h1>Stack I Use</h1>
             <div className="skil_list">
             { 

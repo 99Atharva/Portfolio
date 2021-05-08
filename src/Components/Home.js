@@ -17,11 +17,19 @@ function Home() {
             </div>
 
             <div className="intro">
-                
-                <p><h1>HI!</h1>
-                    I'm Atharva <br/> I'm a full stack <Button variant="contained"  disableRipple className="introbox">developer</Button>
+                <div>
+                <h1>Hi!!</h1>
+                <p>
+                 I'm Atharva <br/> I'm a full stack 
                 </p>
-            </div>
+                </div>
+                
+                <div className="intro_bt">
+                    <Button variant="contained" href="#stack" 
+                     disableRipple>developer</Button>
+                </div>
+            </div>               
+
             <div className="links">
                <ul>
                    <li>
