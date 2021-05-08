@@ -46,9 +46,9 @@ export default function About() {
 
         <Grid item xs={12} md={6}>
             <Grid className={classes.outer}  >
-                <p>I am currently an undergraduate student in the department of CSE. I am a full stack developer ,I have been developing web apps for about a year now.
-                    Along with full stack web dev I have worked with c++ and python. You can check the stack i use below.
-                    I love painting , gaming and outdoor sports🏃‍♀️.
+                <p>I am currently an undergraduate student in the department of CSE. I am a full stack developer,
+                    Along with full stack web development I have Knowledge of c++ and python. You can check the stack I use below.
+                    I am really looking forward to gain some experience.
                     </p> 
             </Grid> 
         </Grid>
