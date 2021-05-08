@@ -8,7 +8,7 @@ function Card(props) {
         <div className="main">
             
             <div className="image">
-            <img src={props.cover} />
+            <img src={props.cover} alt="skill" />
             <div className="overlay">
                 <span>{props.tittle}</span>
                 {props.des}

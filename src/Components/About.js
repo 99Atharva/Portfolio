@@ -36,8 +36,8 @@ export default function About() {
       alignItems="center"  > 
 
         <Grid item xs={12} md={5}>
-           <Grid  className={classes.outer_2} item direction="column" justify="center" alignItems="stretch"  >
-           <Slide direction="right" in="true" timeout={600} mountOnEnter unmountOnExit>
+           <Grid  className={classes.outer_2}    >
+           <Slide direction="right" in={true} timeout={1000} >
              <img src={ME} alt="My_pic"/>
              </Slide>
            </Grid>
@@ -45,7 +45,7 @@ export default function About() {
         </Grid>
 
         <Grid item xs={12} md={6}>
-            <Grid className={classes.outer} item direction="column" alignItems="stretch">
+            <Grid className={classes.outer}  >
                 <p>I am currently an undergraduate student in the department of CSE. I am a full stack developer ,I have been developing web apps for about a year now.
                     Along with full stack web dev I have worked with c++ and python. You can check the stack i use below.
                     I love painting , gaming and outdoor sports🏃‍♀️.

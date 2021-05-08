@@ -11,7 +11,7 @@ function Badges(props) {
            {
              <div className="badge box bounce-1">
              <img src={props.s_image} alt="Skills"/>
-             <span class="tooltiptext"> {props.name} </span>
+             <span className="tooltiptext"> {props.name} </span>
          </div>    
             }
        </div>
@@ -24,7 +24,7 @@ function Badges(props) {
                
             <div  className="badge box bounce-2">
                 <img src={props.s_image} alt="Skills"/>
-                <span class="tooltiptext"> {props.name} </span>
+                <span className="tooltiptext"> {props.name} </span>
             </div>   
             }
        </div>
@@ -36,9 +36,3 @@ function Badges(props) {
 export default Badges;
 
 
-// Skill Badges initial --  
-
-  {/* <div className="badge box bounce-1">
-                <img src={props.s_image} alt="Skills"/>
-                <span class="tooltiptext"> {props.name} </span>
-            </div>    */}
