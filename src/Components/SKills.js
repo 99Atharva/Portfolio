@@ -6,8 +6,8 @@ import Badges from '../Elements/Badges';
 const list = [
     {   
         id: 1,
-        name: "Mongo-DB",
-        s_image: "./Photos/mongo.png"
+        name: "C++",
+        s_image: "./Photos/C++.png"
     },
 
     {   
