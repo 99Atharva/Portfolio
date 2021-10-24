@@ -20,7 +20,8 @@ function Home() {
                 <div>
                 <h1>Hi!!</h1>
                 <p>
-                 I'm Atharva <br/> I'm a full stack 
+                    {/* YOUR NAME AND YOUR DESIGNATION */}
+                 I'm Atharva <br/>  I'm a full stack 
                 </p>
                 </div>
                 
