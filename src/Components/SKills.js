@@ -59,6 +59,11 @@ const list = [
         id:11,
         name:'Adobe-XD',
         s_image:"./Photos/xd.png"
+    },
+    {   
+        id:12,
+        name:'Redux',
+        s_image:"./Photos/r.jpg"
     }
     
 

@@ -15,6 +15,13 @@ const pro_list = [
         url:"https://github.com/99Atharva/web-choice",
         live:"https://webchoice-backend.web.app/",
         des:"Media marketing web app"
+    },
+    {
+        tittle:"Amazon_Clone",
+        cover:"./Project/Amazon_Clone.png",
+        url:"#",
+        live:"https://amazon-clone-mauve-alpha.vercel.app/",
+        des:"E-Commerce"
     }
 ];
 
