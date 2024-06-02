@@ -47,7 +47,7 @@ export default function About() {
           <Grid className={classes.outer}>
             <p>
               {/* WRITE ABOUT  YOURSELF HERE */}A dynamic and meticulous
-              Frontend developer with more than 2 years of experience creating
+              frontend developer with more than 2 years of experience creating
               user-focused, responsive websites. Competent with contemporary
               JavaScript frameworks, like React and NextJs, and possess a strong
               Java programming foundation and have practical expertise with
